@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pharma/static/css/main.62fb0a0e.chunk.css",
-    "main.js": "/Pharma/static/js/main.08b7450e.chunk.js",
-    "main.js.map": "/Pharma/static/js/main.08b7450e.chunk.js.map",
+    "main.js": "/Pharma/static/js/main.b51e56a8.chunk.js",
+    "main.js.map": "/Pharma/static/js/main.b51e56a8.chunk.js.map",
     "runtime-main.js": "/Pharma/static/js/runtime-main.c3cf4c8f.js",
     "runtime-main.js.map": "/Pharma/static/js/runtime-main.c3cf4c8f.js.map",
     "static/js/2.a5424710.chunk.js": "/Pharma/static/js/2.a5424710.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c3cf4c8f.js",
     "static/js/2.a5424710.chunk.js",
     "static/css/main.62fb0a0e.chunk.css",
-    "static/js/main.08b7450e.chunk.js"
+    "static/js/main.b51e56a8.chunk.js"
   ]
 }
